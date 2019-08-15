@@ -1,4 +1,4 @@
-> Todos os repositórios do #DevOpsRN encontram-se no link https://github.com/jerimumhs/cpnatal2
+> Todos os repositórios do #DevOpsRN encontram-se no github https://github.com/jerimumhs/cpnatal2
 
 # Workshop O que é Heroku e como utilizá-lo #CPNatal2
 Repositório para a parte prática do workshop. Nessa parte, subiremos a aplicação que se encontra nesse repositório para o Heroku.
