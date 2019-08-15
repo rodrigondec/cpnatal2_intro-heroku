@@ -39,3 +39,8 @@ Envie o código para sua aplicação do heroku
 ```shell script
 $ git push heroku
 ```
+
+Agora sua aplicação já está no heroku!
+
+## Desafio
+configurar uma variável de ambiente com o nome "ARG_EX" com algum valor arbitrário!
