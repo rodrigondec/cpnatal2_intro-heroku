@@ -8,7 +8,7 @@ Repositório para a parte prática do workshop. Nessa parte, subiremos a aplica�
 # Criando conta no Heroku e aplicação
 O primeiro passo é criar uma conta no [Heroku](https://www.heroku.com/).
 
-Após entrar em sua conta, crie a aplicação com o nome que desejar.
+Após entrar em sua conta, crie a aplicasdfghjklação com o nome que desejar.
 
 > ![heroku dashboard](imgs/dashboard.jpg)
 
